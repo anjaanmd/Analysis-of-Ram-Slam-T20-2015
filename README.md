@@ -14,11 +14,9 @@ These files are generated using scraper.py(which is available in an another repo
 
 Using bash concatenated the relevant files to make the following files:
 
-- 2015_south_ram_slam_t20.first_innings_batting.csv	
-- 2015_south_ram_slam_t20.first_innings_bowling.csv	
-- 2015_south_ram_slam_t20.match_details.csv	
-- 2015_south_ram_slam_t20.score_details.csv	
-- 2015_south_ram_slam_t20.second_innings_batting.csv	
-- 2015_south_ram_slam_t20.second_innings_bowling.csv	
+- 2015_ipl.batting.csv	
+- 2015_ipl.match_details.csv	
+- 2015_ipl.score_details.csv	
+- 2015_ipl.bowling.csv	
 
 Then these files are added to a MySQL database.
